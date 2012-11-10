@@ -1664,6 +1664,11 @@ img.header-image {
   margin-top: 0;
 }
 
+/* this is to hide the fb like share popup since it's useless and being cut off */
+div.fb-like span {
+  overflow: hidden;
+}
+
 /* END OF CUSTOM ADDED STYLES*/
 
 
